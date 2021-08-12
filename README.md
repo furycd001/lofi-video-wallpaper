@@ -8,7 +8,7 @@ A simple video wallpaper script written in bash using **[mpv](https://mpv.io/)**
 
 1. Download the script....
     ```bash
-    wget https://raw.githubusercontent.com/furycd001/dots/master/Gucci/lofi.sh
+    wget https://raw.githubusercontent.com/furycd001/lofi-video-wallpaper/main/lofi.sh
     ```
     
 2. Open `~/.config/mpv/mpv.conf` & add the following....
