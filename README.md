@@ -1,6 +1,6 @@
 # Lofi video wallpaper.
 
-A simple video wallpaper script written in bash using **[mpv](https://mpv.io/)** & **[xwinwrap](https://aur.archlinux.org/packages/xwinwrap-git/)**. Includes audio. Inspired by **[this post](https://www.reddit.com/r/unixporn/comments/p292xv/oc_i_made_a_script_that_plays_the_lofi_stream_in/?utm_source=share&utm_medium=web2x&context=3)** made by **[u/rapphyyy](https://www.reddit.com/user/rapphyyy/)**.
+A simple video wallpaper script written in bash using **[mpv](https://mpv.io/)** & **[xwinwrap](https://aur.archlinux.org/packages/xwinwrap-git/)**. Includes audio....
 
 ![alt text](https://github.com/furycd001/lofi-video-wallpaper/blob/1b6672e6543dac33193dd2f592d4618f0e2646d5/Screenshot_2021-08-11_20-49-58.png "lofi")
 
